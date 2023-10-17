@@ -15,7 +15,7 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 - Se XP for entre 7.001 e 8.000 = Platina;
 - Se XP for entre 8.001 e 9.000 = Ascendente;
 - Se XP for entre 9.001 e 10.000 = Imortal;
-- Se XP for maior ou igual a 10.000 = Radiante;
+- Se XP for maior ou igual a 10.000 = Radiante.
 
 ## Saída
 Ao final deve se exibir uma mensagem: "O Herói de nome {nome} está no nível de {nivel}" 
